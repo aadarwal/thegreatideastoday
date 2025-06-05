@@ -1,1 +1,1 @@
-inspired by Robert Hutchins and Mortimer Adler. 
+inspired by Robert Hutchins and Mortimer Adler, The University of Chicago. 
