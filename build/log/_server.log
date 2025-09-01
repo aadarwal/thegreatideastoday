@@ -1,0 +1,16 @@
+13:39:10 | DEBUG    | Importing LayerViews from YAML file: '/Users/aadarwal/Library/Python/3.11/lib/python/site-packages/gdsfactory/generic_tech/layer_views.yaml'.
+13:39:10 | DEBUG    | Using foundry PDK
+13:39:10 | DEBUG    | 'generic' PDK 9.9.2 is now active
+13:39:10 | DEBUG    | project_folder='/Users/aadarwal/Desktop/greatideastoday'
+13:39:10 | ERROR    | Path does not exist.
+Traceback (most recent call last):
+
+> File "gdsfactoryplus/core/shared.py", line 391, in gdsfactoryplus.core.shared.cli_environment
+
+  File "gdsfactoryplus/cli/build_pics.py", line 54, in gdsfactoryplus.cli.build_pics.build_pics
+
+  File "gdsfactoryplus/cli/build_pics.py", line 163, in gdsfactoryplus.cli.build_pics._validate_build_pics_args
+
+ValueError: Path does not exist.
+
+
